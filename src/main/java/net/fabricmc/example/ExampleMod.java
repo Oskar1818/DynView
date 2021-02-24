@@ -2,6 +2,8 @@ package net.fabricmc.example;
 
 import net.fabricmc.api.ModInitializer;
 
+// Oskar
+
 public class ExampleMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
